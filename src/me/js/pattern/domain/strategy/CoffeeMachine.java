@@ -1,4 +1,4 @@
-package me.js.pattern.domain;
+package me.js.pattern.domain.strategy;
 
 import me.js.pattern.domain.strategy.CoffeeStrategy;
 

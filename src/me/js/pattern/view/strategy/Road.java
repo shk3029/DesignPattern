@@ -1,6 +1,6 @@
-package me.js.pattern.view;
+package me.js.pattern.view.strategy;
 
-import me.js.pattern.domain.CoffeeMachine;
+import me.js.pattern.domain.strategy.CoffeeMachine;
 import me.js.pattern.domain.strategy.AmericanoStrategy;
 import me.js.pattern.domain.strategy.CafeLatteStrategy;
 import me.js.pattern.domain.strategy.CoffeeStrategy;
